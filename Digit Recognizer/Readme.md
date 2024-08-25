@@ -18,13 +18,14 @@ You can install these dependencies using pip:
 pip install numpy seaborn matplotlib scikit-learn
 
 Setup and Usage
-Clone the repository:
+Clone the repository: https://github.com/Arnav1771/Zidio_3_Month_Internship/tree/main
 
 Run the Jupyter Notebook: Open the mnist-digit-recognizer.ipynb file in Jupyter Notebook or Jupyter Lab and execute the cells to train the model and visualize the results.
 
 Project Structure
 mnist-digit-recognizer.ipynb: The main Jupyter Notebook containing the code for training and evaluating the digit recognizer.
 README.md: This file.
+
 Description of Libraries
 numpy: Used for numerical operations.
 seaborn: Used for statistical data visualization.
